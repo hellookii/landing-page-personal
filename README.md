@@ -1,15 +1,8 @@
 <h1 align="center">Hello, this is my first personal portfolio</h1>
 
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=jge162&label=Profile%20views&color=0e75b6&style=flat" alt="jge162" /> 
-</p>
+- Dont forget to follow my <a href="https://linkedin.com/](https://www.instagram.com/m.rizkii_/">Instagram</a>
 
-
-- Currently I am working on certification through <a href="https://linkedin.com/">Linkedin</a> Python for students.
-
-- In addition, I am learing <a href="https://udemy.com/">Javascript and SQL</a>.
-
-- I’m looking for entry level <a href="https://jobs.com/">Embedded Software Engineer</a> internship or job.
+- I am learning <a href="https://udemy.com/">Javascript</a>.
 
 - Lastly, I am looking to help others with <a href="https://tutorials.com/C/C++">C/C++</a> If they are stuck.
