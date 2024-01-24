@@ -1,7 +1,7 @@
 <h1 align="center">Hello, this is my first personal portfolio</h1>
 
 
-- Dont forget to follow my <a href="https://linkedin.com/](https://www.instagram.com/m.rizkii_/">Instagram</a>
+- Dont forget to follow my <a href="https://www.instagram.com/m.rizkii_/">Instagram</a>
 
 - I am learning <a href="https://udemy.com/">Javascript</a>.
 
